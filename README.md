@@ -17,9 +17,7 @@ A full-stack AI-powered resume analysis web app that helps users gain personaliz
 | React 19      | Zustand      | OpenAI API | pdfjs-dist   | Tailwind CSS   |
 | Vite          | React Router | Eden AI    |              | Animate.css    |
 
-## 📸 Screenshots
 
-> (You can add screenshots here later for visual preview)
 
 ## 🛠️ How to Run Locally
 
@@ -28,3 +26,7 @@ A full-stack AI-powered resume analysis web app that helps users gain personaliz
 ```bash
 git clone https://github.com/TIRUMILLI-SAIPRASANNA/ai-resume-analyzer.git
 cd ai-resume-analyzer
+2.Install dependencies
+ npm install
+3. Run the 
+npm run dev
